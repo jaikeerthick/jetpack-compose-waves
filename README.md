@@ -1,4 +1,7 @@
-# 💙 Jetpack Compose Waves  
+
+<p align="start">
+  <img src="./banner.svg" width="800" />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-100%25-blueviolet?logo=kotlin&logoColor=white" />
@@ -7,12 +10,12 @@
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 </p>
 
+A lightweight, customizable, animated wavy background composable for Jetpack Compose. Perfect for headers, footers, sections, onboarding screens, and aesthetic UI elements.
 
-✨ A lightweight, customizable, animated wavy background composable for Jetpack Compose. Perfect for headers, footers, sections, onboarding screens, and aesthetic UI elements.
+## 🎥 Live Preview
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/yourname/jetpack-compose-waves/main/assets/banner.png" width="800" />
-</p> -->
+<img src="live_preview.gif" width="150" />
+
 
 # 🌊 Features
 
@@ -33,10 +36,11 @@ Just copy these files into your project:
 
 ```
 waves/
- ├─ WavyBackground.kt
- ├─ WaveDirection.kt
- ├─ WaveStyle.kt
- └─ WavePreviews.kt
+└── com/jaikeerthick/waves/
+    ├── WavyBackground.kt
+    ├── WaveDirection.kt
+    ├── WaveStyle.kt
+    └── WavePreviews.kt
 ```
 
 No setup required. No Gradle configuration. No library installation.
