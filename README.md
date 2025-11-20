@@ -47,7 +47,7 @@ No setup required. No Gradle configuration. No library installation.
 
 # 🪄 Usage
 
-## Basic Example
+### 1. Basic Example
 
 ```kotlin
 WavyBackground(
@@ -59,7 +59,7 @@ WavyBackground(
 ```
 
 
-# ⬆ Wave at Top
+### 2. Wave at Top ⬆
 
 ```kotlin
 WavyBackground(
@@ -72,7 +72,7 @@ WavyBackground(
 ```
 
 
-# ⬇ Wave at Bottom
+### 3. Wave at Bottom ⬇
 
 ```kotlin
 WavyBackground(
@@ -85,7 +85,7 @@ WavyBackground(
 ```
 
 
-# 🎚 Wave Style Presets
+## Wave Style Presets
 
 ```kotlin
 WavyBackground(
@@ -93,7 +93,7 @@ WavyBackground(
 )
 ```
 
-### Available Presets
+## Available Presets
 
 | Style     | Description                  |
 | --------- | ---------------------------- |
@@ -102,7 +102,7 @@ WavyBackground(
 | Energetic | Fast-moving, deeper waves    |
 
 
-# ⚙ Advanced Customization
+## ⚙ Advanced Customization
 
 ```kotlin
 WavyBackground(
@@ -115,7 +115,7 @@ WavyBackground(
 )
 ```
 
-### Parameters
+## Parameters
 
 | Name                       | Description                              |
 | -------------------------- | ---------------------------------------- |
@@ -128,7 +128,7 @@ WavyBackground(
 | `animateWaveShape`         | Enable/disable breathing effect          |
 
 
-# 🧪 Previews
+## 🧪 Previews
 
 To preview waves in Android Studio:
 
