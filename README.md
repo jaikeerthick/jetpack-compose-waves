@@ -10,8 +10,11 @@
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 </p>
 
+A lightweight, customizable, animated wavy background composable for Jetpack Compose. Perfect for headers, footers, sections, onboarding screens, and aesthetic UI elements.
 
-✨ A lightweight, customizable, animated wavy background composable for Jetpack Compose. Perfect for headers, footers, sections, onboarding screens, and aesthetic UI elements.
+## 🎥 Live Preview
+
+<img src="live_preview.gif" width="150" />
 
 
 # 🌊 Features
@@ -33,10 +36,11 @@ Just copy these files into your project:
 
 ```
 waves/
- ├─ WavyBackground.kt
- ├─ WaveDirection.kt
- ├─ WaveStyle.kt
- └─ WavePreviews.kt
+└── com/jaikeerthick/waves/
+    ├── WavyBackground.kt
+    ├── WaveDirection.kt
+    ├── WaveStyle.kt
+    └── WavePreviews.kt
 ```
 
 No setup required. No Gradle configuration. No library installation.
