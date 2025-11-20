@@ -1,4 +1,7 @@
-# 💙 Jetpack Compose Waves  
+
+<p align="start">
+  <img src="./banner.svg" width="800" />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-100%25-blueviolet?logo=kotlin&logoColor=white" />
@@ -10,9 +13,6 @@
 
 ✨ A lightweight, customizable, animated wavy background composable for Jetpack Compose. Perfect for headers, footers, sections, onboarding screens, and aesthetic UI elements.
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/yourname/jetpack-compose-waves/main/assets/banner.png" width="800" />
-</p> -->
 
 # 🌊 Features
 
